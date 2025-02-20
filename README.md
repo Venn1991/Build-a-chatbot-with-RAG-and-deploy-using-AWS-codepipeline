@@ -15,4 +15,3 @@
 - Test chatbot
 
 
-Medium blog 1: https://medium.com/@govindarajpriyanthan/end-to-end-rag-chatbot-workflow-development-to-containerization-part-1-4b3e168188ff
